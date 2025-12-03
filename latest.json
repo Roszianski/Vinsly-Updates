@@ -1,6 +1,19 @@
 {
-  "version": "0.0.0",
-  "notes": "Placeholder - will be updated by GitHub Actions",
-  "pub_date": "2025-12-02T00:00:00Z",
-  "platforms": {}
+  "version": "0.1.4",
+  "notes": "Release v0.1.4 - See GitHub release for details",
+  "pub_date": "2025-12-03T21:29:35Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.1.4/*_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.1.4/*_x64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUcmRkL0doV3ovMllhVTdFeUtnVFpxM2Foc2EyTURabUxJY1lBUVZJZW1icWd5ZVVWRGcxMlNzVXlQWUtMM3FSaFZjT0lOeExiNDd6K2NpV3N0YnZ4c3hnaU13TjFYQ2cwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY0Nzk3MjMzCWZpbGU6Vmluc2x5XzAuMS40X3g2NC1zZXR1cC5leGUKa1U0VWdpUmo0eXNQazlGTXRTZ05Rd0d0YUF5OHZUS0dtQ3lDajlzRWcrK1BnVjJibXlDR1ZNcmhzY0h3Wm1aeW1VZDV4Q2lPV0xQaGlTTE5DL0tOQ2c9PQo=",
+      "url": "https://github.com/Roszianski/vinsly-desktop/releases/download/v0.1.4/Vinsly_0.1.4_x64-setup.exe"
+    }
+  }
 }
